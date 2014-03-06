@@ -1,5 +1,5 @@
-DT2SM.class: DT2SM.java
-	javac -cp rbnb.jar DT2SM.java
+RecalibrationTool.class: RecalibrationTool.java
+	javac -cp rbnb.jar RecalibrationTool.java
 
 run:
-	java -cp .:rbnb.jar DT2SM
+	java -cp .:rbnb.jar RecalibrationTool 
